@@ -1,0 +1,10 @@
+“symboling”,“normalized-losses”,“make”,“fuel-type”,“aspiration”,
+“numof-doors”,“body-style”,
+“drive-wheels”,“engine-location”,“wheel-base”,
+“length”,“width”,“height”,“curb-weight”,“engine-type”, “num-of-cylinders”,
+“engine-size”,“fuel-system”,“bore”,“stroke”,“compression-ratio”,“horsepower”,
+“peak-rpm”,“city-mpg”,“highway-mpg”,“price”
+
+1
+
+
